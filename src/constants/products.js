@@ -1,0 +1,3 @@
+export const ADD_PRODUCTS = 'ADD_PRODUCTS';
+export const SET_LOADING = 'SET_LOADING';
+export const RESET_PRODUCTS = 'RESET_PRODUCTS';
